@@ -2,8 +2,8 @@
 
 A smart, CrewAI-powered diet planning assistant using **Gemini 1.5 Flash** and **Gradio**. This AI app generates personalized 7-day meal plans based on your age, gender, weight, height, activity level, dietary preferences, and health conditions.
 
-![Demo](diet.png)
-![Demo](diet2.png)
+![My Logo](diet.png)
+![My Logo](diet2.png)
 
 ---
 
